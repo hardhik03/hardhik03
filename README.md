@@ -6,7 +6,7 @@ Currently pursuing my B.tech for EEE at VIT,  Vellore. Worked on IoT and ML proj
 
 🙋‍♂️ You can reach me at :
 
-- 👯 I’m looking to collaborate on ...Iot and ML projects
+- 👯 I’m looking to collaborate on Iot and ML projects
 - 📫 How to reach me: 
  [LinkedIn](https://www.linkedin.com/in/hardhik-pvv-7152521a6)
 
